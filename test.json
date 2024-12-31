@@ -1,0 +1,32 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Alice",
+            "age": 28,
+            "department": "Engineering",
+            "email": "alice@example.com"
+        },
+        {
+            "id": 2,
+            "name": "Bob",
+            "age": 35,
+            "department": "Marketing",
+            "email": "bob@example.com"
+        },
+        {
+            "id": 3,
+            "name": "Charlie",
+            "age": 40,
+            "department": "Sales",
+            "email": "charlie@example.com"
+        }
+    ],
+    "company": {
+        "name": "TechCorp",
+        "location": "San Francisco",
+        "established": 2010,
+        "website": "https://www.techcorp.com"
+    },
+    "is_open": true
+}
